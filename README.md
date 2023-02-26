@@ -1,0 +1,2 @@
+# telegram_openchatbot
+简单的一站式telegram聊天机器人，使用php语言构造
